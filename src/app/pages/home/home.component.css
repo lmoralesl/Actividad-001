@@ -1,0 +1,35 @@
+.titulo {
+    text-align: center;
+    margin-top: 25px;
+  }
+
+  .titulo h2 {
+    color: rgb(224, 164, 85);
+    margin-bottom: 50px;
+  }
+  .titulo p {
+    
+    margin-bottom: 50px;
+  }
+
+  .lista-cafes {
+    margin-top: 10px;
+  }
+
+  .tipo {
+    margin-bottom: 60px;
+    text-align: center;
+  }
+
+  .tipo img {
+    width: 250px;
+    height: 250px;
+    margin: 20px auto;
+  }
+
+  .tipo h3 {
+    margin-bottom: 10px;
+  }
+  .tipo p {
+    margin: 10px 30%;
+  }
